@@ -1,3 +1,2 @@
-Django Tutorial
-Created a central Screenshot folder for all the time stamps since i completed most
+Django Tutorial i completed most
 of the Tutorial at once
